@@ -1,12 +1,12 @@
 {
-  "name": "@jiaminghi/data-view",
+  "name": "@gushen/data-view",
   "version": "2.10.0",
-  "author": "JiaMing <743192023@qq.com>",
-  "description": "Vue Large screen data display component library",
+  "author": "chenming <498381819@qq.com>",
+  "description": "基于 @jiaminghi/data-view 的定制版本",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/DataV-Team/DataV.git"
+    "url": "https://github.com/loveqian08/-dataview-gushen"
   },
   "scripts": {
     "build": "node build/index.js",
